@@ -6,22 +6,36 @@ Proyek ini adalah aplikasi web untuk mengompres gambar menggunakan Python dan Fl
 
 Berikut adalah langkah-langkah untuk menggunakan aplikasi kompresor gambar:
 
-### 1. Persyaratan
+### 1. Instalasi
 
-Pastikan Anda memiliki Python 3.x terinstal di sistem Anda. Anda juga perlu menginstal beberapa dependensi yang diperlukan:
+**Clone Repositori**
+
+   ```bash
+   git clone https://github.com/NPMA7/ImageCompressor.git
+   cd ImageCompressor
+```
+
+### 2. Persyaratan
+
+**Pastikan Anda memiliki Python 3.x terinstal di sistem Anda. Anda juga perlu menginstal beberapa dependensi yang diperlukan:**
 
 ```bash
 pip install Flask opencv-python
 ```
 
-### 2. Instalasi
+### 3.  Menjalankan Program
+**Buka terminal di folder ImageCompressor dan ketikan perintah:**
 
-1. **Clone Repositori**
+```bash
+python app.py
+atau
+python3 app.py
+```
+### 4. Buka Browser
 
-   ```bash
-   git clone https://github.com/NPMA7/ImageCompressor.git
-   cd ImageCompressor
-
+```bash
+http://127.0.0.1:5500/
+```
 ## Menggunakan Aplikasi
 
 ### 1. Unggah Gambar
