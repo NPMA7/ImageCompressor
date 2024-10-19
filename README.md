@@ -19,8 +19,8 @@ pip install Flask opencv-python
 1. **Clone Repositori**
 
    ```bash
-   git clone <URL_REPOSITORI>
-   cd <NAMA_FOLDER>
+   git clone https://github.com/NPMA7/ImageCompressor.git
+   cd ImageCompressor
 
 ## Menggunakan Aplikasi
 
